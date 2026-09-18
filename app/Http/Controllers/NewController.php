@@ -7,6 +7,6 @@ class NewController
 
     public function hello()
     {
-        return "hello";
+        return "hi";
     }
 }
