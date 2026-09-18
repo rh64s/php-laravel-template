@@ -7,6 +7,6 @@ class JustController extends Controller
 
     public function hello()
     {
-        return true;
+        return 'hellyes';
     }
 }
